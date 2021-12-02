@@ -186,7 +186,7 @@ export default class Create extends Component{
                             id="quantity"
                             class="form-control"               
                             name="quantity"
-                            placeholder="Enter Your Name"
+                            placeholder="Enter Your Quantity"
                             value={this.state.quantity} 
                             onChange={this.handleInputChange}
                             required ="required"/>
